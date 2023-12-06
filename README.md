@@ -18,7 +18,7 @@ ESTRUTURA DO PROJETO: (atualizando)
         1ºFocada no Slogan do site  (resolvido) 
         2º Focada em exibir os top10 jogos em banners verticais como o netflix.(atualizando)
     
-    3.1 - Os banners vão exibir a classificação em número de cada jogo. (atualizando)
+3.1 - Os banners vão exibir a classificação em número de cada jogo. (atualizando)
 
 4 - "Sobre mim" vai conter uma apresentação profissional com minha foto e objetivos profissionais. (atualizando)
 
