@@ -4,7 +4,8 @@ O objetivo desse projeto é construir uma página com indicação de jogos com b
 SITUAÇÃO DO PROJETO:
 O projeto está em fase de desenvolvimento com 1 a 2 atualizações mensais.
 
-ESTRUTURA DO PROJETO:(atualizando)
+ESTRUTURA DO PROJETO: (atualizando)
+
 Legenda: (atualizando) = precisa de alterações
           (resolvido) = chegou ao status definitivo.
           
