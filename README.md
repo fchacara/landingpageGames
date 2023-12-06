@@ -6,7 +6,8 @@ O projeto está em fase de desenvolvimento com 1 a 2 atualizações mensais.
 
 ESTRUTURA DO PROJETO: (atualizando)
 
-          Legenda: (atualizando) = precisa de alterações
+          Legenda: 
+          (atualizando) = precisa de alterações
           (resolvido) = chegou ao status definitivo.
           
 1 - Criação de em menu de navegação atrativo (atualizando)
