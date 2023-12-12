@@ -10,9 +10,9 @@ ESTRUTURA DO PROJETO: (atualizando)
           (atualizando) = precisa de alterações.
           (resolvido) = chegou ao status definitivo.
           
-1 - Criação de em menu de navegação atrativo (atualizando)
+1 - Criação de em menu de navegação atrativo  (resolvido)
 
-2 - O menu vai possuir os botões "Home", "Sobre mim", "Contato" (atualizando)
+2 - O menu vai possuir os botões "Home", "Sobre mim", "Contato"  (resolvido)
 
 3 - "Home" será uma página com três sessões.(atualizando)
         1ºFocada no Slogan do site  (resolvido) 
