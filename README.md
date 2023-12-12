@@ -1,7 +1,8 @@
-OBJETIVO:
+# LANDING PAGE TOP 10 JOGOS PARA JOGAR ANTES DE MORRER
+## OBJETIVO:
 O objetivo desse projeto é construir uma página com indicação de jogos com base na minha opinião.
 
-SITUAÇÃO DO PROJETO:
+## SITUAÇÃO DO PROJETO:
 O projeto está em fase de desenvolvimento com 1 a 2 atualizações mensais.
 
 ESTRUTURA DO PROJETO: (atualizando)
@@ -23,4 +24,7 @@ ESTRUTURA DO PROJETO: (atualizando)
 4 - "Sobre mim" vai conter uma apresentação profissional com minha foto e objetivos profissionais. (atualizando)
 
 5 - "Contato" vai conter as minhas redes e um formulário para contato.(atualizando)
+
+## TECNOLOGIAS:
+HTML e CSS
 
