@@ -3,7 +3,7 @@
     --cor-secundaria: #900C3F;
     --cor-terciaria: #C70039;
     --cor-quarta: #F94C10;
-    --cor-hover: #F8DE22;
+    --cor-quinta: #F8DE22;
 
     --fonte-primaria: 'Montserrat', sans-serif;
 }
@@ -22,21 +22,34 @@ body {
 .Logoanc {
     display:flex;
     flex-direction: row;
+    color: var(--cor-quarta);
+    gap:0.1rem;
+    justify-content: center;
+    align-items: center;
+
 }
+
 
 .Logo{
     font-family: var(--fonte-primaria);
     font-weight: 900;
+    color: var(--cor-quarta)
 }
 .Menu{
-    background-color: var(--cor-quarta);
+    height: 10vh;
     display:flex;
     flex-direction:row;
-    gap: 3rem;
+    height: 2,5rem;
+    position: relative;
+    left: 4rem;
 }
+
 .MenuNav {
     display: flex;
     gap: 3rem;
+    flex-direction: row;
+    align-items: center;
+
 
 }
 .MenuAnc {
@@ -44,27 +57,25 @@ body {
     font-family: var(--fonte-primaria);
     font-size: 1rem;
     font-weight: 500;
-    color: var(--cor-primaria);
+    color: var(--cor-quarta);
 }
 
-nav:hover{
-   
-    
-}
-.Allpage {
-    background-color: var(--cor-primaria);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    
-}
 
 .Banner {
     display: flex;
-    flex-direction: column;
-    gap: 2rem;
-    width: 800px;
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
     
+}
+
+.maintext {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 10rem;
+    gap: 2rem;
 }
 
 .title  {
@@ -79,12 +90,12 @@ nav:hover{
 
 .text {
     border: 1px solid var(--cor-terciaria);
-    border-radius: 8px;
+    border-radius: 0.5rem;
     margin: 0 auto;
     padding: 15px 25px;
     width: 400px;
     font-family: var(--fonte-primaria);
-    color: var(--cor-hover);
+    color: var(--cor-quinta);
     font-size: 1rem;
     text-align: center;
     
@@ -93,4 +104,34 @@ nav:hover{
 .imgbanner {
     width: 40%;
     height: 60%;
+    position: relative;
+    right: 10rem;
+}
+
+.Top10 {
+
+}
+
+.Titletop10 {
+    font-family: var(--fonte-primaria);
+    color: white;
+    display: flex;
+    position: relative;
+    background-color: var(--cor-quarta);
+
+}
+
+.GameTitle {
+    color: white;
+}
+.gameimg {
+    margin: 2rem;
+    border-radius: 3rem;
+    width: 10rem;
+    height: auto;
+
+}
+
+.gameimg:hover{
+        transform: scale(1.1);
 }
