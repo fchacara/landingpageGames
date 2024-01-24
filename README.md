@@ -13,17 +13,15 @@ ESTRUTURA DO PROJETO: (atualizando)
           
 1 - Criação de em menu de navegação atrativo  (resolvido)
 
-2 - O menu vai possuir os botões "Home", "Sobre mim", "Contato"  (resolvido)
+2 - O menu vai possuir os botões "Home" e "Sobre mim" (resolvido)
 
-3 - "Home" será uma página com três sessões.(atualizando)
+3 - "Home" será uma página com três sessões.(resolvido)
         1ºFocada no Slogan do site  (resolvido) 
-        2º Focada em exibir os top10 jogos em banners verticais como o netflix.(atualizando)
+        2º Focada em exibir os top10 jogos em banners verticais como o metacritic.(resolvido)
     
-3.1 - Os banners vão exibir a classificação em número de cada jogo. (atualizando)
+3.1 - Os banners vão exibir a classificação em número de cada jogo. (resolvido)
 
-4 - "Sobre mim" vai conter uma apresentação profissional com minha foto e objetivos profissionais. (atualizando)
-
-5 - "Contato" vai conter as minhas redes e um formulário para contato.(atualizando)
+4 - "Sobre mim" vai conter uma apresentação profissional com minha foto e objetivos profissionais. (resolvido)
 
 ## TECNOLOGIAS:
 HTML e CSS
