@@ -26,3 +26,7 @@ ESTRUTURA DO PROJETO: (atualizando)
 ## TECNOLOGIAS:
 HTML e CSS
 
+
+## Melhorias
+
+1 - Deixar a página com design responsivo
