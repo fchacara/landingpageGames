@@ -30,3 +30,4 @@ HTML e CSS
 ## Melhorias
 
 1 - Deixar a página com design responsivo
+2 - Corrigir espaço do footer que causa sobra na página.
