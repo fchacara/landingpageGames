@@ -3,7 +3,7 @@
 O objetivo desse projeto é construir uma página com indicação de jogos com base na minha opinião.
 
 ## SITUAÇÃO DO PROJETO:
-O projeto está em fase de desenvolvimento com 1 a 2 atualizações mensais.
+O projeto está em fase de desenvolvimento.
 
 ESTRUTURA DO PROJETO: (atualizando)
 
@@ -22,6 +22,11 @@ ESTRUTURA DO PROJETO: (atualizando)
 3.1 - Os banners vão exibir a classificação em número de cada jogo. (resolvido)
 
 4 - "Sobre mim" vai conter uma apresentação profissional com minha foto e objetivos profissionais. (resolvido)
+
+5  - Deixar o código mais limpo (atualizando)
+
+6 - Adicionar responsividade (atualizando)
+
 
 ## TECNOLOGIAS:
 HTML e CSS
